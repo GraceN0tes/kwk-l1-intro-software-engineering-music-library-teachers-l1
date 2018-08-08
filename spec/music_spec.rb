@@ -4,7 +4,7 @@ describe 'Music Library' do
 
   before(:each) do
     @library = {
-      :taylor_swift => "Style",
+      taylor_swift: "Style",
       :silento => "Watch Me",
       :selena_gomez => "Good For You",
       :mark_ronson => "Uptown Funk!",
